@@ -4,7 +4,9 @@ Welcome to the Flutter Web Responsive Music Player repository! This project show
 
 
 ##Video 
-[![Watch the Demo](https://youtu.be/SHQwPgPcE8M?feature=shared)](https://youtu.be/SHQwPgPcE8M?feature=shared)
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SHQwPgPcE8M/0.jpg](https://www.youtube.com/watch?v=SHQwPgPcE8M
 🔥 Features:
 - *Responsive Design*: Experience a seamless music playback interface across various screen sizes and devices.
 - *Apple Music Integration*: Play your favorite tracks using Apple Music audio URLs, bringing your music library right to your browser.
