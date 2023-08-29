@@ -2,6 +2,9 @@
 
 Welcome to the Flutter Web Responsive Music Player repository! This project showcases a sleek and intuitive music player interface built using Flutter Web. It allows you to stream music using Apple Music audio URLs while leveraging the power of the `audio_player` library from pub.dev.
 
+
+##Video 
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/SHQwPgPcE8M?feature=shared)
 🔥 Features:
 - *Responsive Design*: Experience a seamless music playback interface across various screen sizes and devices.
 - *Apple Music Integration*: Play your favorite tracks using Apple Music audio URLs, bringing your music library right to your browser.
@@ -10,8 +13,8 @@ Welcome to the Flutter Web Responsive Music Player repository! This project show
 - *Sleek UI*: Enjoy a visually appealing user interface that enhances your music listening experience.
 
 🚀 Get Started:
-1. Clone the repository: `git clone https://github.com/your-username/your-music-player.git`
-2. Navigate to the project directory: `cd your-music-player`
+1. Clone the repository: `git clone https://github.com/Harshit5344/CodeClauseInternship_ResponsiveMusicPlayer'
+2. Navigate to the project directory: `cd CodeClauseInternship_ResponsiveMusicPlayer`
 3. Install dependencies: `flutter pub get`
 4. Run the Flutter app: `flutter run -d web`
 
